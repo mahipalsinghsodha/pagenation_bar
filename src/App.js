@@ -34,7 +34,7 @@ export default function App() {
     <div>
       <h1 style={{ textAlign: "center", textTransform: "uppercase" }}>
         {" "}
-        Pagenation Bar
+        Pagination Bar
       </h1>
       {products.length > 0 && (
         <div className="products">
